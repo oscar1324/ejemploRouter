@@ -14,7 +14,7 @@
             <li>mikel de la calle</li>
             </ul>
         </ol>
-        <casa-libro></casa-libro>
+        <CasaLibro/>
     </div>
 </template>
 <script>
